@@ -22,3 +22,5 @@ print(set.add)
 
 print("hello")
 # print("hello python!")
+
+print("hello python3.10")
