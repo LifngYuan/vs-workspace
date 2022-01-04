@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File    :   例子4.py
+@Time    :   2022/01/03 17:45:02
+@Author  :   袁利锋
+@Contact :   lifng.yuan@gmail.com
+@Department   :  None
+@Desc    :   None
+'''
+
+# here put the import lib
+list=[1,2,3,4]
+it=iter(list) #创建迭代器对象
+print(next(it))#输出迭代器的下一个元素
+print(next(it))
+print(next(it))
