@@ -82,3 +82,17 @@ not
 参考代码case01.py
 案例2：已知坐标(x,y)，判断其所在的象限
 参看代码case02.py
+
+#循环
+一  for-in循环
+语法结构：
+for 变量 in 集合：
+    具体操作
+
+1、遍历列表
+for-in循环用enumerate遍历列表及索引
+ 遍历字典
+ 三个方法
+ items():返回字典内的key-value对
+ keys():返回字典内的所有key列表
+ values()：返回字典中所有value列表
