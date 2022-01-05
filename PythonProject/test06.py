@@ -24,5 +24,5 @@ print(z)
 
 # shiyong if biaodashi ,panduanyigeshu de jiouxing
 
-num =int(input("input a number:"))
-print(num,"是奇数" if num%2==1 else "是偶数")
+num = int(input("input a number:"))
+print(num, "是奇数" if num % 2 == 1 else "是偶数")
