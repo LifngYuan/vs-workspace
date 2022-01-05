@@ -96,3 +96,8 @@ for-in循环用enumerate遍历列表及索引
  items():返回字典内的key-value对
  keys():返回字典内的所有key列表
  values()：返回字典中所有value列表
+ 参看：xunhuan01.py
+练习：
+构造一个列表，其由正数、负数、零构成。
+将其中的正数输出。
+参看：for-in-test01.py
