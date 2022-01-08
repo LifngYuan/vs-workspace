@@ -175,3 +175,13 @@ for-in循环用enumerate遍历列表及索引
    ### 练习 
    使用break，判断一个列表内，是否存在奇数。
    参考ex5.py
+
+6. 跳出循环continue
+   ```
+   循环（while或for-in）
+        if 条件表达式：
+            continue
+   ```
+   continue：结束循环，忽略当次循环的剩下语句，从下次执行
+   核心要义：本次循环的后续不执行了，从下一轮继续开始执行。
+   参考ex6.py
