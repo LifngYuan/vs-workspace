@@ -17,10 +17,10 @@
 # 使用函数
 
 # ①无参数、无返回值
-# def area():
-#     print(3.14*10*10)
+def area():
+    print(3.14*10*10)
 
-# area()
+area()
 
 # ② 有参、无返回值
 # def area1(r):
